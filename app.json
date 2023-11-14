@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hospital_mobile_IU",
+    "slug": "hospital_mobile_IU",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hospital_mobile_IU"
+}
